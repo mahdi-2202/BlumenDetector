@@ -6,7 +6,7 @@ sommerasterr
 ![](./bilder/sommerasterr.jpg)
 
 sonnenblume
-![](./bilder/sonnenblume.jpg)
+![](./bilder/sonnenblume.JPG)
 
 tellerkräuter
 ![](./bilder/tellerkräuter.jpg)
