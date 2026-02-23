@@ -4,7 +4,7 @@ Zusätzlich wird Grad-CAM verwendet, um visuell darzustellen, welche Bildbereich
 
 ![](./bilder/sommerasterr.jpg)
 
-sommerasterr
+sommeraster
 
 ![](./bilder/sonnenblume.JPG)
 
